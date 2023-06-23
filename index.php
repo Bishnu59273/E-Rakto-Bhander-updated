@@ -210,7 +210,7 @@
     <div class="col-sm-3 mb-child-c">
         <div class="img-mn">
 
-            <img loading="lazy" src="images/about2.jpg" alt="Blood Donation Eligibility" class="featured-image">
+            <img loading="lazy" src="assets/images/about2.jpg" alt="Blood Donation Eligibility" class="featured-image">
 
 
         </div>
@@ -224,7 +224,7 @@
     <div class="col-sm-3 mb-child-c">
         <div class="img-mn">
 
-            <img loading="lazy" src="images/about3.png" alt="Blood Donation Eligibility" class="featured-image">
+            <img loading="lazy" src="assets/images/about3.png" alt="Blood Donation Eligibility" class="featured-image">
 
 
         </div>
@@ -242,7 +242,7 @@
     <div class="col-sm-3 mb-child-c">
         <div class="img-mn">
 
-            <img loading="lazy" src="images/about2.jpg" alt="Blood Donation Eligibility" class="featured-image">
+            <img loading="lazy" src="assets/images/about2.jpg" alt="Blood Donation Eligibility" class="featured-image">
 
 
         </div>
