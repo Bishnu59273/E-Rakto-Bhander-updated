@@ -379,7 +379,6 @@ function isSaveButtonVisible($isEditable)
                                 <option value="South Twenty Four Parganas">South Twenty Four Parganas</option>
                                 <option value="Uttar Dinajpur">Uttar Dinajpur</option>
                             </select>
-                            <input type="text" required name="OrgBBDist" Value="">
                         </div>
                         <div>
                             <label>City :-</label><input type="text" required name="OrgBBCity"
@@ -418,7 +417,7 @@ function isSaveButtonVisible($isEditable)
 
 
             <div class="col-md-12 btcon">
-                <button id="editButton" class="col-sm-3 pbtns" type="submit">Edit</button>
+                <button id="editButton" class="col-sm-3 pbtns" type="button">Edit</button>
                 <button id="saveButton" class="col-sm-3 pbtns" type="submit" style="display: none;"
                     class="Updateorgdeta">Save</button>
                 <button id="cancelButton" class="col-sm-3 pbtns" type="button" style="display: none;">Cancel</button>

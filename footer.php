@@ -1,8 +1,3 @@
-<link rel="stylesheet" href="css/Main.css" />
-
-
-
-
 <!-- Modal -->
 <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-bs-labelledby="exampleModalCenterTitle"
     aria-bs-hidden="true">
@@ -13,7 +8,7 @@
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <div class="modal-body">
-                
+
                 <?php require "bloodrequest.php";?>
 
 
@@ -21,12 +16,12 @@
 
             </div>
         </div>
-    </div> 
+    </div>
 </div>
 
 <!-- MAIN FOOTER START -->
 <footer class="footer">
-    <link rel="stylesheet" href="css/footer.css" />
+    <link rel="stylesheet" href="assets/css/footer.css" />
     <div class="container">
         <div class="row">
             <div class="col-md-3 footer-col mb-4 mb-md-0">

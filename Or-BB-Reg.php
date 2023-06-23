@@ -2,7 +2,7 @@
 <!-- Header Link -->
 <?php require "header.php"; ?>
 <!--  -->
-<link rel="stylesheet" href="css/cs1.css">
+<link rel="stylesheet" href="assets/css/cs1.css">
 <!--  -->
 <center>
     <div id="jm1">

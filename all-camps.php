@@ -7,7 +7,7 @@
 
 <!-- <h3 class="sta">BLOOD STOCK AVAILABILITY</h3> -->
 
-<link rel="stylesheet" href="css/InBC.css">
+<link rel="stylesheet" href="assets/css/InBC.css">
 
 
 
