@@ -1,0 +1,86 @@
+@media only screen and(min-width: 796px){
+    #buton1 {
+    width: 45%;
+    height: 5vh;
+    margin: 0.6% 2%;
+    border-radius: 5px;
+}
+.Search-filds {
+    /* width: 20.11vw; */
+    width: 25.4%;
+    height: 5vh;
+    margin: 0.5% 1%;
+    border-radius: 5px;
+    font-size: 18px;
+    
+}
+}
+
+@media only screen and(min-width: 778px){
+    #buton1 {
+    width: 45%;
+    height: 5vh;
+    margin: 0.6% 2%;
+    border-radius: 5px;
+}
+
+.Search-filds {
+    /* width: 20.11vw; */
+    width: 25.4%;
+    height: 5vh;
+    margin: 0.5% 1%;
+    border-radius: 5px;
+    font-size: 15px;
+    
+}
+}
+
+@media only screen and (min-width: 412px) {
+    #buton1 {
+    width: 25%;
+    height: 5vh;
+    margin: 0.6% 2%;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+.nav-item .nvr{
+    font-size: 50%;
+}
+
+.hed{
+    font-size: 90%;
+}
+
+.bottom_header{
+    padding-left: 55%;
+    padding-bottom: 0;
+    font-weight: 10px;
+}
+
+.top_header {
+  font-size: 12px;
+}
+
+
+th {
+    /* padding: 0% 1%; */
+    width: 5%;
+    font-size: 45%;
+
+}
+
+.head-logo {
+  max-width: 50%;
+  height: auto;
+}
+.Search-filds {
+    /* width: 20.11vw; */
+    width: 25%;
+    height: 5vh;
+    margin: 0.5% 1%;
+    border-radius: 5px;
+    font-size: 15px;
+    
+}
+}

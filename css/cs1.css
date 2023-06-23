@@ -1,0 +1,84 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+#jm1 {
+  border: 1px solid rgb(207, 203, 203);
+  border-radius: 0.4rem;
+  background-color: #faf3f3;
+  /* height: 100vh; */
+  height: auto;
+  width: 85rem;
+  margin: 1% 4%;
+}
+
+#jm1 h1 {
+  background-color: #bf222b;
+  /* height: 8.7vh; */
+  /* width: 84.9rem; */
+  color: #faf3f3;
+  border-radius: 0.4rem 0.4rem 0rem 0rem;
+  padding: 1rem;
+  text-align: center;
+}
+#sh1 {
+  width: 40vw;
+}
+
+#ar1 {
+  width: 40vw;
+}
+
+.fname {
+  padding: 9px;
+  margin: 6px;
+  font-size: 16px;
+  border-radius: 3px;
+}
+
+.text1 {
+  font-size: 1rem;
+  align-content: left;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.cmp-dt {
+  display: flex;
+  padding-left: 5.3rem;
+}
+
+.cmp-date {
+  position: relative;
+  margin-right: 38rem;
+  /* margin-top: 3.5rem; */
+}
+
+.ch-cmp-tm {
+  display: flex;
+  padding-right: -5rem !important;
+}
+.orb-psec {
+  margin-left: 6rem;
+}
+
+#orb-b1 {
+  background-color: #1fc409;
+  border: none;
+  color: #fff;
+  border-radius: 8px;
+  margin: 2% 0%;
+  height: 33px;
+  width: 11%;
+}
+
+#orb-b1:hover {
+  background-color: #fffffff7;
+  border: 1px solid #101210;
+  color: #1fc409;
+}

@@ -1,0 +1,145 @@
+.u-container {
+  position: relative;
+  width: 75vw;
+  /* height: auto; */
+  border-radius: 20px;
+  padding: 50px;
+  /* margin: 10px 15px; */
+  margin: 3vh 10vw;
+  /* background-color: #fff; */
+  box-shadow: 0 5px 10px rgba(247, 2, 2, 0.5);
+  background-color: rgb(193, 193, 196);
+}
+
+.h-tt,
+.DrregHead {
+  position: relative !important;
+  font-size: 25px !important;
+  font-weight: 600 !important;
+  color: rgb(20, 20, 20) !important;
+  /* margin: 0% 0% 2% 0%; */
+  padding: 0% 0% 1% 0% !important;
+}
+
+.DrregHead::before {
+  content: "";
+  position: absolute;
+  /* left: 0; */
+  bottom: -1px;
+  height: 1vh;
+  width: 17vw;
+  border-radius: 4px;
+  background-color: #bf222b;
+}
+
+.h-tt::before:hover {
+  margin: 0% 0% 0% 3%;
+}
+
+.u-form {
+  position: relative;
+  /* margin-top: 16px;
+    min-height: 2060px; */
+  margin: 16px 0px 0px 0px;
+  /* overflow: hidden; */
+}
+
+/* 
+.container form .form {
+    position: absolute;
+    background-color: #fff;
+    transition: 0.3s ease;
+} */
+
+/* form.secActive .form.first {
+    opacity: 0;
+    pointer-events: none;
+    transform: translateX(-100%);
+} */
+
+.u-title {
+  display: block;
+  margin-bottom: 8px;
+  font-size: 16px;
+  font-weight: 500;
+  margin: 6px 0;
+  color: #333;
+}
+
+.fields {
+  display: flex;
+  /* align-items: center; */
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.input-field {
+  /* display: flex; */
+  /* width: calc(300% / 5 - 25px);
+    flex-direction: column; */
+  margin: 0px 0;
+}
+
+/* .s-it {
+    width: 40vh;
+} */
+
+.s-fild {
+  display: flex;
+  justify-content: center;
+}
+
+/* .input-field label {
+    font-size: 14px;
+    font-weight: 650;
+    color: #2e2e2e;
+} */
+
+.U-ifh {
+  position: absolute;
+  font-size: 14px;
+  font-weight: 650;
+  color: #fcfcfc;
+}
+
+.U-iff {
+  height: 5vh;
+  width: 67.8vw;
+}
+
+.U-ifs {
+  height: 5vh;
+  width: 33.5vw;
+}
+
+.U-ifvs {
+  height: 4vh;
+  width: 25vw;
+}
+
+input,
+select {
+  outline: none;
+  font-size: 14px;
+  font-weight: 400;
+  color: #333;
+  border-radius: 5px;
+  /* background-color: rgb(231, 21, 21); */
+  border: 1px solid #aaa;
+  padding: 0 15px;
+  /* height: 40px; */
+  margin: 24px 0;
+  /* margin: 4% 0% 2% 0%; */
+}
+
+.qbtn {
+  height: 40px;
+  background-color: #1fc409;
+  color: #fff;
+  font-size: 18px;
+}
+.qbtn:hover {
+  background-color: #fff;
+  color: #1fc409;
+  border: 1px solid #1fc409;
+}

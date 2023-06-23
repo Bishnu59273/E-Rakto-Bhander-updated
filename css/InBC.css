@@ -1,0 +1,94 @@
+/** {*/
+
+/*    margin: 0px;*/
+
+/*    padding: 0px;*/
+
+/*}*/
+
+.sta {
+  color: rgb(202, 0, 0);
+  /* text-align: left; */
+  /* margin: 0% -10% 0% 0%; */
+  margin: 1% 4%;
+}
+
+.hed {
+  color: rgb(255, 255, 255);
+  background-color: rgb(191, 34, 41);
+  /* text-align: left; */
+  height: 15%;
+  padding: 0.4%;
+}
+
+.Stock-A-form {
+  border: 1px solid rgb(235, 204, 209);
+  /* width: 93vw; */
+  width: 92%;
+  /* height: 20vh; */
+  height: 19%;
+  /* margin: 0px 46px; */
+  margin: 1% 4%;
+}
+
+.Stock-A-form form {
+  display: flex;
+  margin: 0.8% 27%;
+}
+
+.Search-filds {
+  /* width: 20.11vw; */
+  width: 25.4%;
+  height: 5vh;
+  margin: 0.5% 1%;
+  border-radius: 5px;
+}
+
+/* .indication-field {
+    display: flex;
+    margin: 1% 4%;
+} */
+
+#buton1 {
+  width: 18.2%;
+  height: 5vh;
+  margin: 0.6% 2%;
+  border-radius: 5px;
+  background-color: #2dbf1ad2;
+  color: rgb(255, 255, 255);
+}
+
+table {
+  border: 2px solid black;
+  /* width: 93vw;
+    margin: 0px 46px; */
+  background-color: rgb(191, 34, 41);
+  /* width: 92%; */
+  height: 19%;
+  margin: 1% 4%;
+}
+
+th {
+  padding: 0% 1%;
+  width: 10%;
+  border: 2px solid black !important;
+  text-align: center !important;
+  font-family: sans-serif, Georgia, "Times New Roman", Times, serif;
+  color: #ffffff;
+}
+
+td {
+  background-color: #eeafaf;
+  border: 2px solid black !important;
+  text-align: center;
+  font-size: 85%;
+  font-weight: 500;
+  color: black;
+}
+
+#buton1:hover {
+  background-color: #f8f8f8;
+  color: #2dbf1ad2;
+}
+
+/* responsive */

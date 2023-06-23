@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+/* html {
+    border-radius: 5px;
+} */
+
+.Nbb-hed {
+    color: rgb(191, 34, 41);
+    /* background-color: rgb(191, 34, 41); */
+    /* text-align: left; */
+    /* height: 15%; */
+    font-size: 140%;
+    padding: 0.4% 0.4% 2% 0.4%;
+    margin: 4% 0% 0% 0%;
+    border-bottom: 2px solid rgb(43, 41, 41);
+}
+
+.UD {
+    width: 92%;
+    /* height: 19%; */
+    margin: 1% 4% 0% 4%;
+}
+
+.s0 {
+    width: 60.3%;
+}
+
+.s-n-b-b {
+    /* border: 1px solid rgb(235, 204, 209); */
+    /* width: 93vw; */
+    width: 92%;
+    /* height: 20vh; */
+    height: 19%;
+    /* margin: 0px 46px; */
+    margin: 1% 4%;
+}
+
+.snbbf {
+    /* width: 20.11vw; */
+    width: 21.4%;
+    height: 5vh;
+    margin: 1.6%;
+    border-radius: 4px;
+}
+
+.S-T-op {
+    display: flex;
+}
+
+.indication-field {
+    display: flex;
+    margin: 1% 4%;
+}
+
+
+/* #buton1 {
+    width: 7.2%;
+    height: 4.2vh;
+    margin: 0.6% 45%;
+} */
+
+.sbsn-t {
+    border: 2px solid black;
+    /* width: 93vw;
+    margin: 0px 46px; */
+    background-color: rgb(191, 34, 41);
+    width: 92%;
+    height: 19%;
+    margin: 1% 4%;
+}
+
+td {
+    padding: 0% 1%;
+    width: 10%;
+    height: auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.sbsn-pn {
+    width: 92%;
+    height: 19%;
+    margin: 1% 4%;
+}
+
+
+
+
+/* .m1 {
+    background-color: rgb(230, 13, 13);
+    width: 60px;
+    height: auto;
+} */
