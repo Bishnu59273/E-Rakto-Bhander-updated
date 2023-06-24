@@ -113,6 +113,7 @@ $(function () {
   $("#main_navbar").bootnavbar();
 });
 
+// back to top
 jQuery(document).ready(function () {
   var btn = jQuery("#button");
   jQuery(window).scroll(function () {
