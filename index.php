@@ -218,7 +218,7 @@
         Facilis tenetur fuga similique a, reprehenderit cumque voluptates, ipsa adipisci, mollitia earum
         voluptatibus odit.
         <center> <button class="grid-mn">
-                learn more
+                learn more...
             </button></center>
     </div>
     <div class="col-sm-3 mb-child-c">
@@ -234,7 +234,7 @@
         <center>
             <a href="faq.php">
                 <button class="grid-mn">
-                    learn more
+                    learn more...
                 </button>
             </a>
         </center>
@@ -251,7 +251,7 @@
         voluptatibus odit.
         <center>
             <button class="grid-mn">
-                learn more
+                learn more...
             </button>
         </center>
     </div>
