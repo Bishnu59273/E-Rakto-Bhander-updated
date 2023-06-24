@@ -179,14 +179,14 @@
 <!-- next div start-->
 <div class="meb-div">
     <!-- col-md-offset-2 -->
-    <div class="meb-div-hc">
+    <div class="meb-div-hc" style="background-color: #bf222b; color: #fff; padding-bottom: 6px;">
         <h1>Types of donation</h1>
     </div>
     <!--main content Header -->
     <br />
 
     <!-- Content -->
-    <div class="eb-content text-center">
+    <div class="eb-content text-center" style=" font-weight: 600;">
         <p>
             The human body contains five liters of blood, which is made of several
             useful components i.e. <strong>Whole blood</strong>,
@@ -245,10 +245,10 @@
             <img loading="lazy" src="assets/images/about2.jpg" alt="Blood Donation Eligibility" class="featured-image">
 
 
-        </div>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum eveniet tempore numquam, nemo enim ab.
-        Facilis tenetur fuga similique a, reprehenderit cumque voluptates, ipsa adipisci, mollitia earum
-        voluptatibus odit.
+        </div><span class="tod">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum eveniet tempore numquam, nemo enim ab.
+            Facilis tenetur fuga similique a, reprehenderit cumque voluptates, ipsa adipisci, mollitia earum
+            voluptatibus odit.</span>
         <center>
             <button class="grid-mn">
                 learn more...
@@ -265,10 +265,14 @@
               animation-delay: 0.2s;
               animation-name: fadeInUp;
             ">
-                <h3 class="teamh">Our Creative <span> Team</span></h3>
-                <p class="teamp">
+                <h3 class="teamh" style="  background-color: #bf222b; color: #fff;">Our Creative
+                    <span>
+                        Team
+                    </span>
+                </h3>
+                <p class="teamp" style="  padding-bottom: 22px; font-size: 20px; color: #bf222b;">
                     Appland is completely creative, lightweight, clean &amp; super
-                    responsive app landing page.
+                    responsive Web landing page.
                 </p>
                 <div class="line"></div>
             </div>
@@ -287,8 +291,12 @@
                     <img src="assets/images/avatar315-removebg-preview.png" alt="" />
                     <!-- Social Info-->
                     <div class="social-info">
-                        <a href="#"><i class="fa fa-facebook"></i></a><a href="#"><i class="fa fa-twitter"></i></a><a
-                            href="#"><i class="fa fa-linkedin"></i></a>
+                        <a href="https://www.facebook.com/bishnu.saha.1234" target="blank">
+                            <i class="fa fa-facebook"></i></a>
+                        <a href="https://twitter.com/GCloud_2003?t=bb4Rvb0pjFrIVge84pNcaw&s=09" target="blank">
+                            <i class="fa fa-twitter"></i></a>
+                        <a href="https://www.linkedin.com/in/bishnu-saha-8b33a123b" target="blank">
+                            <i class="fa fa-linkedin"></i></a>
                     </div>
                 </div>
                 <!-- Team Details-->

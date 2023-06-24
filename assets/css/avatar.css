@@ -56,12 +56,14 @@
   margin-bottom: 0.25rem;
   -webkit-transition-duration: 500ms;
   transition-duration: 500ms;
+  color: #e1ef45;
 }
 .single_advisor_profile .single_advisor_details_info p {
   -webkit-transition-duration: 500ms;
   transition-duration: 500ms;
   margin-bottom: 0;
   font-size: 18px;
+  color: #e1ef45;
 }
 .single_advisor_profile:hover .advisor_thumb .social-info a,
 .single_advisor_profile:focus .advisor_thumb .social-info a {
