@@ -1,13 +1,5 @@
 <?php require "header.php";?>
 
-
-<!--  -->
-
-
-
-
-
-
 <div class="container my-4">
     <div class="row featurette d-flex justify-content-center align-items-center">
         <div class="col-md-7 order-md-2">
