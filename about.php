@@ -18,7 +18,7 @@
                 encourage people to become donors..</p>
         </div>
         <div class="col-md-5 order-md-1">
-            <img class="img-fluid" src="images/about1.png" width="400" height="400" alt="">
+            <img class="img-fluid" src="assets/images/about1.png" width="400" height="400" alt="">
         </div>
     </div>
 </div>
@@ -34,7 +34,7 @@
                 and inspire more people to get involved.</p>
         </div>
         <div class="col-md-5">
-            <img class="img-fluid" src="images/about2.jpg" width="400" height="400" alt="">
+            <img class="img-fluid" src="assets/images/about2.jpg" width="400" height="400" alt="">
         </div>
     </div>
 </div>
@@ -49,7 +49,7 @@
                 to spread the word about the importance of blood donation and inspire more people to get involved.</p>
         </div>
         <div class="col-md-5 order-md-1">
-            <img class="img-fluid" src="images/about4.jpg" width="400" height="400" alt="">
+            <img class="img-fluid" src="assets/images/about3.png" width="400" height="400" alt="">
         </div>
     </div>
 </div>
